@@ -1,5 +1,7 @@
 # sop
 
+## Contributing Guide
+
 ```mermaid
 gitGraph
     commit
